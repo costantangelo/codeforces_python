@@ -1,8 +1,3 @@
-'''
-Problem n.231A on codeforces
-'''
-
-
 n = int(input())
 team=[]
 output=0
